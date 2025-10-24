@@ -6,7 +6,7 @@ metadata:
    app: events-web
  name: events-web
 spec:
- replicas: 4
+ replicas: 3
  selector:
    matchLabels:
      app: events-web
